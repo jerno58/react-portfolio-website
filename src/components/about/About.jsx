@@ -41,7 +41,22 @@ const About = () => {
           </div>
 
           <p>
-            This is a paragraph where I will talk about myself.
+          I'm Joshua Erno, a customer-oriented 
+          problem solver and a passionate computer science student specializing in 
+          machine learning and artificial intelligence. I graduated with high 
+          honors from Michigan State University, completing my bachelor's degree
+          in computer science in three years. Currently, I'm pursuing my 
+          master's degree, also in computer science, at Michigan State University. 
+          I've had the privilege of interning as a software engineer at 
+          Ford Motor Company and JPMorgan Chase & Co, gaining practical 
+          experience and contributing to real-world projects. I thrive on 
+          curiosity and the desire to learn new things and meet new people. 
+          As a south-east Michigan native, I'm deeply connected to my local 
+          community and excited to leverage my skills to make a positive 
+          impact. On this website, I aim to share my knowledge, experiences, 
+          and insights in the field of computer science. Whether you're interested 
+          in collaboration, idea exchange, or simply learning something new, 
+          I invite you to join me on this exciting journey!
           </p>
 
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
