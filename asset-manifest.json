@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio-website/static/css/main.b767ab2b.css",
-    "main.js": "/react-portfolio-website/static/js/main.270d5e7c.js",
+    "main.css": "/react-portfolio-website/static/css/main.51797bae.css",
+    "main.js": "/react-portfolio-website/static/js/main.2d882f7c.js",
     "static/media/clock2.jpg": "/react-portfolio-website/static/media/clock2.d8bb56c994d00ac5267f.jpg",
     "static/media/bridge.jpg": "/react-portfolio-website/static/media/bridge.f412deecfef850ad1d4e.jpg",
     "static/media/resume.pdf": "/react-portfolio-website/static/media/resume.8ba28f06c7172ab02c49.pdf",
+    "static/media/ford.png": "/react-portfolio-website/static/media/ford.b484540c5859ffb94b22.png",
+    "static/media/spotify.png": "/react-portfolio-website/static/media/spotify.cca1022bb9d8a9277b26.png",
+    "static/media/movies.png": "/react-portfolio-website/static/media/movies.615bcea12180715a07b7.png",
     "static/media/placeholder.jpg": "/react-portfolio-website/static/media/placeholder.e83e00e04a871eaf1317.jpg",
+    "static/media/meijer.jpg": "/react-portfolio-website/static/media/meijer.c43760f1ff213c9b5147.jpg",
     "index.html": "/react-portfolio-website/index.html",
-    "main.b767ab2b.css.map": "/react-portfolio-website/static/css/main.b767ab2b.css.map",
-    "main.270d5e7c.js.map": "/react-portfolio-website/static/js/main.270d5e7c.js.map"
+    "main.51797bae.css.map": "/react-portfolio-website/static/css/main.51797bae.css.map",
+    "main.2d882f7c.js.map": "/react-portfolio-website/static/js/main.2d882f7c.js.map"
   },
   "entrypoints": [
-    "static/css/main.b767ab2b.css",
-    "static/js/main.270d5e7c.js"
+    "static/css/main.51797bae.css",
+    "static/js/main.2d882f7c.js"
   ]
 }
